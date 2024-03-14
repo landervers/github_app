@@ -1,0 +1,19 @@
+{
+  "title": "Flutter 应用",
+  "login": "登录",
+  "test": "666",
+  "theme": "主题",
+  "userName": "用户名",
+  "language": "语言",
+  "auto": "自动",
+  "password":"密码",
+  "userNameRequired": "用户名请求",
+  " passwordRequired":"密码请求",
+  "userNameOrPasswordWrong": "用户名或密码错误",
+  "logout": "退出",
+  "noDescription": "没有描述",
+  "yes": "是的",
+  "logoutTip": "退出提示",
+  "cancel": "取消"
+
+}

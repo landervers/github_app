@@ -1,0 +1,13 @@
+{
+  "@@last_modified": "2024-03-14T09:36:46.529643",
+  "title": "Flutter 应用",
+  "@title": {
+    "description": "Title for the Demo application",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {},
+    "@@locale": "zh_CN",
+    "hello": "你好",
+    "goodbye": "再见"
+  }
+}
